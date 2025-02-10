@@ -280,7 +280,7 @@ The project is prepared for horizontal scaling:
 
 ## Автор
 
-- [Ваше имя](https://github.com/your-username)
+- [Mark Romanov](https://github.com/haqer0002)
 
 ## Лицензия
 
