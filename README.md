@@ -130,7 +130,7 @@ go test ./tests/load
 
 ---
 
-# Avito Shop (English)
+# Avito Shop
 
 ## Project Description
 
